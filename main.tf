@@ -1,4 +1,5 @@
 
+
 # Security Group for EC2 instance
 resource "aws_security_group" "web_sg" {
   name        = "web_sg"
