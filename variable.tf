@@ -12,3 +12,4 @@ variable "deployer_key_name" {
   description = "Name of the key pair"
   default     = "deployer-key"
 }
+
