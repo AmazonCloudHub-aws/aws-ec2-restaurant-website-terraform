@@ -24,5 +24,4 @@ This project sets up a web server on AWS EC2 using Terraform. The web server is 
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone git@github.com:dhamsey3/aws-ec2-restaurant-website-terraform.git
